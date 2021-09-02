@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <ChakraProvider theme={theme}>
         <Button colorScheme="teal">ボタン</Button>
+        <p>chakraUI</p>
       </ChakraProvider>
     </div>
   );
