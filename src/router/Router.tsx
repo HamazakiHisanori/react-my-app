@@ -1,5 +1,5 @@
-import { Switch, Route } from 'react-router-dom';
 import { memo, VFC } from 'react';
+import { Switch, Route } from 'react-router-dom';
 
 import { Login } from '../components/pages/Login';
 import { HomeRoutes } from './HomeRoutes';
